@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GIFs for All</title>
+  </head>
+  <body>
+    <h1>GIFs for All</h1>
+    <p> You get a GIF! And you get a GIF! And you get a GIF!</p>
+    <h2> Here's how to navigate this page</h2>
+    <ol>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
